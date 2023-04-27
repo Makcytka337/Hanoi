@@ -1,0 +1,42 @@
+D:\C#\Practica 4.0\bin\Debug\Practica 4.0.exe.config
+D:\C#\Practica 4.0\bin\Debug\Practica 4.0.exe
+D:\C#\Practica 4.0\bin\Debug\Practica 4.0.pdb
+D:\C#\Practica 4.0\obj\Debug\Practica 4.0.csproj.AssemblyReference.cache
+D:\C#\Practica 4.0\obj\Debug\Practica 4.0.csproj.SuggestedBindingRedirects.cache
+D:\C#\Practica 4.0\obj\Debug\Practica_4._0.Form1.resources
+D:\C#\Practica 4.0\obj\Debug\Practica_4._0.Properties.Resources.resources
+D:\C#\Practica 4.0\obj\Debug\Practica 4.0.csproj.GenerateResource.cache
+D:\C#\Practica 4.0\obj\Debug\Practica 4.0.csproj.CoreCompileInputs.cache
+D:\C#\Practica 4.0\obj\Debug\Practica 4.0.exe
+D:\C#\Practica 4.0\obj\Debug\Practica 4.0.pdb
+D:\C#\Practica 4.0\obj\Debug\Practica_4._0.Form2.resources
+D:\C#\Practica 4.0\obj\Debug\Practica_4._0.Form3.resources
+D:\C#\Practica 4.0\obj\Debug\Practica_4._0.Form4.resources
+D:\C#\Practica 4.1\bin\Debug\Practica 4.0.exe.config
+D:\C#\Practica 4.1\bin\Debug\Practica 4.0.exe
+D:\C#\Practica 4.1\bin\Debug\Practica 4.0.pdb
+D:\C#\Practica 4.1\obj\Debug\Practica 4.0.csproj.AssemblyReference.cache
+D:\C#\Practica 4.1\obj\Debug\Practica 4.0.csproj.SuggestedBindingRedirects.cache
+D:\C#\Practica 4.1\obj\Debug\Practica_4._0.Form1.resources
+D:\C#\Practica 4.1\obj\Debug\Practica_4._0.Form2.resources
+D:\C#\Practica 4.1\obj\Debug\Practica_4._0.Form3.resources
+D:\C#\Practica 4.1\obj\Debug\Practica_4._0.Form4.resources
+D:\C#\Practica 4.1\obj\Debug\Practica_4._0.Properties.Resources.resources
+D:\C#\Practica 4.1\obj\Debug\Practica 4.0.csproj.GenerateResource.cache
+D:\C#\Practica 4.1\obj\Debug\Practica 4.0.csproj.CoreCompileInputs.cache
+D:\C#\Practica 4.1\obj\Debug\Practica 4.0.exe
+D:\C#\Practica 4.1\obj\Debug\Practica 4.0.pdb
+E:\Практика\Practica 4.2\bin\Debug\Practica 4.0.exe.config
+E:\Практика\Practica 4.2\bin\Debug\Practica 4.0.exe
+E:\Практика\Practica 4.2\bin\Debug\Practica 4.0.pdb
+E:\Практика\Practica 4.2\obj\Debug\Practica 4.0.csproj.AssemblyReference.cache
+E:\Практика\Practica 4.2\obj\Debug\Practica 4.0.csproj.SuggestedBindingRedirects.cache
+E:\Практика\Practica 4.2\obj\Debug\Practica_4._0.Form1.resources
+E:\Практика\Practica 4.2\obj\Debug\Practica_4._0.Form2.resources
+E:\Практика\Practica 4.2\obj\Debug\Practica_4._0.Form3.resources
+E:\Практика\Practica 4.2\obj\Debug\Practica_4._0.Form4.resources
+E:\Практика\Practica 4.2\obj\Debug\Practica_4._0.Properties.Resources.resources
+E:\Практика\Practica 4.2\obj\Debug\Practica 4.0.csproj.GenerateResource.cache
+E:\Практика\Practica 4.2\obj\Debug\Practica 4.0.csproj.CoreCompileInputs.cache
+E:\Практика\Practica 4.2\obj\Debug\Practica 4.0.exe
+E:\Практика\Practica 4.2\obj\Debug\Practica 4.0.pdb
