@@ -13,7 +13,7 @@ namespace Practica_4._0
 {
     public partial class Form1 : Form
     {
-/////строка для гита мне все равно
+/////строка для гита мне все равноgggg
         public Rectangle Sz = Screen.PrimaryScreen.Bounds;
         bool raz = false;
 
